@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Liana1408
-- 👀 I’m interested in alot of things
-- 🌱 I’m currently learning at unima
-- 💞️ I’m looking to collaborate on what I will be doing lol
+- 👀 I’m interested in coding, exploring new things,  learning new things
+- 🌱 I’m currently learning at unima (bachelor of science in computer science)
+- 💞️ I’m looking to collaborate on what I will be doing 
 - 📫 How to reach me lianachagunda83@gmail.com
 
 <!---
