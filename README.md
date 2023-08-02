@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Liana1408
-- 👀 I’m interested in coding, exploring new things,  learning new things
-- 🌱 I’m currently learning at unima (bachelor of science in computer science)
-- 💞️ I’m looking to collaborate on what I will be doing 
-- 📫 How to reach me lianachagunda83@gmail.com
+- 👋 Hi, I’m liana chagunda
+- 👀where desire and creativity meet! I'm a passionate developer in training
+- i am devoted to revealing code's limitless possibilities.
+- Join me as I explore the world of programming, putting elegant solutions together and gaining knowledge from each line.
+- 🌱 I’m currently learning at the University of Malawi studying 'bachelor of science in computer science'
+- 📫 How to reach me, you can email me @lianachagunda83@gmail.com
 
-<!---
-Liana1408/Liana1408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
